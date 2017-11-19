@@ -2,7 +2,7 @@
 
 set = ["schindler's list", "inception", "kingsman: the golden circle",
 "the godfather", "the intern", "pulp fiction", "taxi driver", "reservoir dogs",
-"american history x", "inglorious basterds", "fight club", "guardiens of the galaxy",
+"american history x", "inglorious basterds", "fight club", "guardians of the galaxy",
 "game of thrones", "friends","preacher", "house of cards", "breaking bad",
 "how i met your mother", "suits", "silicon valley", "flash", "movies", ""];
 
@@ -18,7 +18,7 @@ function funOpenSearch(searchValue)
   switch(searchValue)
   {
     case "schindler's list" : window.open("schindler.html"); break;
-    case "inception" : window.open("suits.html"); break;
+    case "inception" : window.open("movietemplete.html"); break;
     case "kingsman: the golden circle" : window.open("kingsmangoldencircle.html"); break;
     case "the godfather" : window.open("godfather.html"); break;
     case "the intern" : window.open("intern.html"); break;
@@ -28,7 +28,7 @@ function funOpenSearch(searchValue)
     case "american history x" : window.open("americanx.html"); break;
     case "inglorious basterds" : window.open("inglorious.html"); break;
     case "fight club" : window.open("fightclub.html"); break;
-    case "guardiens of the galaxy" : window.open("suits.html"); break;
+    case "guardians of the galaxy" : window.open("guardiansofthegalaxy.html"); break;
     case "game of thrones" : window.open("gameofthrones.html"); break;
     case "friends" : window.open("friends.html"); break;
     case "preacher" : window.open("preacher.html"); break;
